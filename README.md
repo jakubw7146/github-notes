@@ -1,6 +1,6 @@
 # github-notes
 
-Git - A system used to track the history of a project and allow many people to collabrorate on the same project
+Git - A system used to track the history of a project and allow many people to collaborate on the same project
 
 Github - A web service that allows you to do Git things like using version control, on a website and it is a social network for projects that are managed through Git
 
